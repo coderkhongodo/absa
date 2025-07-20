@@ -30,9 +30,9 @@ ENV/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# PyTorch
-*.pth
-*.pkl
+# PyTorch (exclude trained models from gitignore)
+# *.pth
+# *.pkl
 
 # IDE
 .vscode/
