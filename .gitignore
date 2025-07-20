@@ -30,8 +30,9 @@ ENV/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# PyTorch (exclude trained models from gitignore)
-# *.pth
+# PyTorch - exclude large PhoBERT models (>100MB)
+models/phobert_*.pth
+# Keep small models and tokenizers
 # *.pkl
 
 # IDE
