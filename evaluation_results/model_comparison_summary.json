@@ -1,0 +1,19 @@
+{
+  "comparison_timestamp": "2025-07-20T22:07:53.910738",
+  "aspect_detection_summary": {
+    "average_single_task_f1": 0.946598373324465,
+    "average_multi_task_f1": 0.9568984295657322,
+    "average_f1_improvement": 0.010300056241267327,
+    "average_single_task_accuracy": 0.9750462107208873,
+    "average_multi_task_accuracy": 0.9788971041281578,
+    "average_accuracy_improvement": 0.0038508934072704754
+  },
+  "sentiment_classification_summary": {
+    "average_single_task_accuracy": 0.8952220449683732,
+    "average_multi_task_accuracy": 0.9373294604348208,
+    "average_accuracy_improvement": 0.04210741546644765,
+    "average_single_task_macro_f1": 0.6043882879043304,
+    "average_multi_task_macro_f1": 0.5239539875586867,
+    "average_macro_f1_improvement": -0.08043430034564368
+  }
+}
